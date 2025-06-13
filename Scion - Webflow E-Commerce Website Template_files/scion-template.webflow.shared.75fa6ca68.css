@@ -5835,6 +5835,7 @@ figure {
   position: relative;
   overflow: hidden;
   box-shadow: 0 6px 24px #0003;
+  background-color: white;
 }
 
 .video.wide {
@@ -5858,6 +5859,7 @@ figure {
   transition: transform .2s;
   display: flex;
   position: absolute;
+  top: 20px;
 }
 
 .video-play:hover {
